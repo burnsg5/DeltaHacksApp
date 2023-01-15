@@ -1,2 +1,3 @@
 # Deltahacks
-# This is our attempt at an app for delta hacks
+# This is our app for delta hacks
+#it does require the pip installation of tkintermapview
